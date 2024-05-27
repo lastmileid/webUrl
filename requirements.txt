@@ -1,6 +1,12 @@
-streamlit==1.29.0
+openai==1.3.9
 langchain==0.0.354
 chromadb==0.4.18
 tiktoken==0.5.2
-openai==1.3.9
+beautifulsoup4
+regex
+html2text
+lxml
+streamlit_feedback
+trubrics
+streamlit_chat
 pysqlite3-binary
